@@ -5,8 +5,6 @@
 
 Cập nhật thêm!
 **Logic:**
-  - Gửi lời chào và đề xuất từ cần nối khi dùng /noi-tu: *"Halo! Từ bạn cần nối là: [xxx]"*.Sau khi nối, vui lòng chờ những bạn khác nối tiếp nhé!
-  - Kiểm tra trong `tu_dien.json` nếu từ đã nối tức câu trả lời của ng chơi không còn từ để nối tiếp > Kết thúc game, chờ lệnh /noi-tu để chơi lại
   - Mỗi câu trả lời đúng được 1 tảo, lưu vào trong database với @username Discord của chính người đó
   - Đối với /cheat, bot sẽ kiểm tra trong database xem @username Discord đã có điểm chưa? Nếu chưa thì thông báo "Còn cái nịt" | Còn thì trực tiếp trừ 5 tảo trong database và đưa ra tin nhắn gợi ý từ cần nối tiếp theo trong tu_dien.js
 
