@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 Cập nhật thêm!
+
 **Logic:**
   - Mỗi câu trả lời đúng được 1 tảo, lưu vào trong database với @username Discord của chính người đó
   - Đối với /cheat, bot sẽ kiểm tra trong database xem @username Discord đã có điểm chưa? Nếu chưa thì thông báo "Còn cái nịt" | Còn thì trực tiếp trừ 5 tảo trong database và đưa ra tin nhắn gợi ý từ cần nối tiếp theo trong tu_dien.js
